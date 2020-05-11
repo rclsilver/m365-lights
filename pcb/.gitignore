@@ -1,0 +1,16 @@
+#   Ignore these files
+*~
+*.bak
+*.bck
+*.log
+*.net
+*.raw
+*-cache
+*-cache.lib
+*-rescue.lib
+*.kicad_pcb-bak
+*.sch-bak
+_saved_*.sch
+file[A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9][A-F0-9].sch
+gerber/*.zip
+
